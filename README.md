@@ -6,7 +6,8 @@
 ### 日本語
 
 
-**アプリ名:** なろう小説リーダー／なろう小說閱讀器／Narou Syosetu Reader for Android
+**アプリ名:** なろう小説リーダー／なろう小說閱讀器／Narou Syosetu Reader for Android  
+📥 **APKダウンロード：** [NarouSyosetuReader-1.0.0.zip](https://github.com/user-attachments/files/20704592/NarouSyosetuReader-1.0.0.zip)
 
 **はじめに：**
 
@@ -94,7 +95,8 @@ Androidで「小説家になろう」を読むための「なろう！ビュー�
 
 ### 中文
 
-**應用程式名稱:** なろう小說閱讀器／なろう小説リーダー／Narou Syosetu Reader for Android
+**應用程式名稱:** なろう小說閱讀器／なろう小説リーダー／Narou Syosetu Reader for Android  
+📥 **APK 下載：** [NarouSyosetuReader-1.0.0.zip](https://github.com/user-attachments/files/20704592/NarouSyosetuReader-1.0.0.zip)
 
 **前言:** 
 
@@ -162,7 +164,8 @@ Androidで「小説家になろう」を読むための「なろう！ビュー�
 
 ### English Version
 
-**App Name:** Narou Syosetu Reader／なろう小説リーダー／なろう小說閱讀器 for Android
+**App Name:** Narou Syosetu Reader／なろう小説リーダー／なろう小說閱讀器 for Android  
+📥 **Download APK:** [NarouSyosetuReader-1.0.0.zip](https://github.com/user-attachments/files/20704592/NarouSyosetuReader-1.0.0.zip)
 
 **Introduction:**
 
@@ -235,3 +238,33 @@ With a clean and efficient interface, this app helps you focus on what matters m
 
 * This is a third-party app. All novel content is sourced from the “Shosetsuka ni Narou” website. Please respect the copyrights of original authors.
 * The download function is for personal offline reading only.
+
+___
+
+### フォント
+
+アプリでカスタムフォントを表示するには、以下のインターネット上で公開されている無料の日本語フォントをダウンロードして、スマートフォンに保存してください。
+
+- [超極細ゴシック体／chogokubosogothic_5](https://font.websozai.jp/line-font-mihon.html)
+- [東青梅ゴシック／HigashiOme-Gothic-C-1.3](https://www.fontmatome.com/higashiome-gothic/)
+- [青梅ぷらすゴシックP／HigashiOme-Gothic-1.3i](https://www.fontmatome.com/oume-plus-gothicp/)
+- [あずきフォント／azuki](https://azukifont.com/font/azuki.html)
+- [うずらフォント／uzura](https://azukifont.com/font/uzura.html)
+- [隼文字／falconfont_1.1](https://www.freejapanesefont.com/falcon-handwriting-font-download/)
+- [源暎ゴシックN／GenEiGothicN-Regular](https://okoneya.jp/font/download.html#dl-geg-n)
+- [衡山毛筆フォント](https://opentype.jp/kouzanmouhitufont.htm)
+- [青柳衡山フォントT](https://opentype.jp/aoyagikouzanfontt.htm)
+- [明朝體 フォント むつき／Mutsuki](https://mandel59.github.io/mutsuki/index.html)
+- [Yuji Mai／YujiMai-Regular](https://fonts.google.com/specimen/Yuji+Mai)
+- [自家製 Rounded M+／rounded-mplus-1m-regular](http://jikasei.me/font/rounded-mplus/about.html)
+- [HOKKORIフォント／hokkori](http://poiut.web.fc2.com/computer/fonts/HOKKORI-FONT.html)
+- [瀬戸フォントSP／軽量版／sp-setofont](https://forest.watch.impress.co.jp/library/software/setofont/)
+- [よもぎフォントYomogiFont／Yomogi-Regular](https://github.com/satsuyako/YomogiFont)
+- [BIZ UD明朝／BIZUDMincho-Regular](https://fonts.google.com/specimen/BIZ+UDMincho)
+- [あおぞら明朝／AozoraMinchoRegular](https://www.fontmatome.com/aozoramincho/)
+- [花鳥風月](https://www.fontmatome.com/kachoufuugetsu/)
+- [春夏秋冬](https://www.fontmatome.com/shunka-shuutou/)
+- [清風明月](https://www.fontmatome.com/seifuumeigetsu/)
+- [源ノ角ゴシック JP／SourceHanSansJP-Regular](https://myfont.jp/fonts/16)
+- [Noto Serif JP／NotoSerifJP-Regular](https://github.com/notofonts/noto-cjk)
+
