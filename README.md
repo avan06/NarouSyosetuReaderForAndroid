@@ -7,7 +7,7 @@
 
 
 **アプリ名:** なろう小説リーダー／なろう小說閱讀器／Narou Syosetu Reader for Android  
-📥 **APKダウンロード：** [NarouSyosetuReader-1.0.0.zip](https://github.com/user-attachments/files/20704592/NarouSyosetuReader-1.0.0.zip)
+📥 **APKダウンロード：** [NarouSyosetuReader-1.0.1.zip](https://github.com/avan06/NarouSyosetuReaderForAndroid/releases/download/1.0.1/NarouSyosetuReader-1.0.1.zip)
 
 **はじめに：**
 
@@ -96,7 +96,7 @@ Androidで「小説家になろう」を読むための「なろう！ビュー�
 ### 中文
 
 **應用程式名稱:** なろう小說閱讀器／なろう小説リーダー／Narou Syosetu Reader for Android  
-📥 **APK 下載：** [NarouSyosetuReader-1.0.0.zip](https://github.com/user-attachments/files/20704592/NarouSyosetuReader-1.0.0.zip)
+📥 **APK 下載：** [NarouSyosetuReader-1.0.1.zip](https://github.com/avan06/NarouSyosetuReaderForAndroid/releases/download/1.0.1/NarouSyosetuReader-1.0.1.zip)
 
 **前言:** 
 
@@ -165,7 +165,7 @@ Androidで「小説家になろう」を読むための「なろう！ビュー�
 ### English Version
 
 **App Name:** Narou Syosetu Reader／なろう小説リーダー／なろう小說閱讀器 for Android  
-📥 **Download APK:** [NarouSyosetuReader-1.0.0.zip](https://github.com/user-attachments/files/20704592/NarouSyosetuReader-1.0.0.zip)
+📥 **Download APK:** [NarouSyosetuReader-1.0.1.zip](https://github.com/avan06/NarouSyosetuReaderForAndroid/releases/download/1.0.1/NarouSyosetuReader-1.0.1.zip)
 
 **Introduction:**
 
