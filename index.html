@@ -9,7 +9,7 @@
 <body>
   <div id="content">Loading...</div>
   <script>
-    fetch('README.md')
+    fetch('README.md', { cache: 'no-store' })
       .then(response => response.text())
       .then(md => {
         document.getElementById('content').innerHTML = marked.parse(md);
